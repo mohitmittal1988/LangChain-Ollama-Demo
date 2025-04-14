@@ -6,7 +6,7 @@ This is a demo app using [LangChain](https://www.langchain.com/) and [Ollama](ht
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/langchain-ollama-demo.git
+   git clone https://github.com/mohitmittal1988/LangChain-Ollama-Demo.git
    cd langchain-ollama-demo
 2. Create a virtual environment (optional but recommended)
     ```bash
