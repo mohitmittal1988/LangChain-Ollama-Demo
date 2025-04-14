@@ -32,10 +32,9 @@ This is a simple end-to-end demo that integrates **LangChain**, **Ollama**, and 
     ```bash
     pip install -r requirement.txt
 4.  Download the LLaMA 3.2 model using Ollama
-   You need to have Ollama installed on your machine.
-   ```bash
+    You need to have Ollama installed on your machine.
+    ```bash
      ollama run llama3
-
 5. Set up your .env file
     ```bash
     LANGCHAIN_API_KEY=your-langchain-api-key
