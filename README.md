@@ -45,6 +45,6 @@ This is a simple end-to-end demo that integrates **LangChain**, **Ollama**, and 
 
 ```markdown
  💬 Sample Usage
-Question: What is LangChain?
-
-Response: LangChain is a framework for developing applications powered by language models...
+    Question: What is LangChain?
+    
+    Response: LangChain is a framework for developing applications powered by language models...
