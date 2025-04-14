@@ -24,7 +24,7 @@ This is a demo app using [LangChain](https://www.langchain.com/) and [Ollama](ht
     streamlit run app.py
 
 ```markdown
-## 💬 Sample Usage
-**Question:** What is LangChain?
+ 💬 Sample Usage
+Question: What is LangChain?
 
-**Response:** LangChain is a framework for developing applications powered by language models...
+Response: LangChain is a framework for developing applications powered by language models...
