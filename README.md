@@ -14,7 +14,7 @@ This is a demo app using [LangChain](https://www.langchain.com/) and [Ollama](ht
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 3. Install the dependencies
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirement.txt
 4. Set up your .env file
     ```bash
     LANGCHAIN_API_KEY=your-langchain-api-key
